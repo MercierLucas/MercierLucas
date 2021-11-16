@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MercierLucas
 - 👀 I’m a data scientist specialized in Computer Vision
-- I'm currently looking for a PhD in computer vision, feel free to contact me on [linkedin](https://www.linkedin.com/in/lucas-mercier-899470171/)
-- 🌱 I'm working on different game prototypes for fun
+- I'm a PhD student at in Montreal working on computer vision applied to medical images
+- 🌱 I'm (sometimes) working on different game prototypes for fun
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercierLucas)](https://github.com/anuraghazra/github-readme-stats)
 
